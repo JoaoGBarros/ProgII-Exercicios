@@ -1,0 +1,54 @@
+frente 1
+frente 4
+direita 2
+esquerda 6
+frente 1
+frente 50
+ataque
+direita 1
+esquerda 50
+frente 2
+direita 5
+frente 5
+ataque
+esquerda 2
+ataque
+frente 1
+ataque
+esquerda 1
+direita 8
+frente 5
+ataque
+frente 1
+ataque
+tras 50
+ataque
+tras 1
+tras 1
+frente 10
+frente 1
+tras 50
+tras 40
+esquerda 2
+ataque
+tras 50
+ataque
+direita 7
+ataque
+tras 2
+frente 6
+esquerda 1
+ataque
+frente 4
+ataque
+tras 1
+tras 1
+direita 30
+direita 2
+esquerda 2
+tras 1
+ataque
+frente 5
+frente 4
+ataque
+direita 5

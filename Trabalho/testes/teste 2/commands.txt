@@ -1,0 +1,27 @@
+ataque
+ataque
+ataque
+esquerda 10
+direita 10
+esquerda 20
+direita 20
+ataque
+ataque
+tras 30
+ataque
+frente 10
+ataque
+tras 3
+frente 40
+frente 1
+ataque
+ataque
+ataque
+tras 10
+ataque
+direita 15
+ataque
+esquerda 12
+frente 6
+ataque
+esquerda 1
